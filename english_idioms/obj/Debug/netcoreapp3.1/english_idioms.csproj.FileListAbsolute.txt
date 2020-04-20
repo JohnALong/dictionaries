@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/bin/Debug/netcoreapp3.1/english_idioms.deps.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/bin/Debug/netcoreapp3.1/english_idioms.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/bin/Debug/netcoreapp3.1/english_idioms.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/bin/Debug/netcoreapp3.1/english_idioms.dll
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/bin/Debug/netcoreapp3.1/english_idioms.pdb
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.dll
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.pdb
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/english_idioms/obj/Debug/netcoreapp3.1/english_idioms.genruntimeconfig.cache
