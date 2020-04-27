@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/bin/Debug/netcoreapp3.1/car_lot.deps.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/bin/Debug/netcoreapp3.1/car_lot.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/bin/Debug/netcoreapp3.1/car_lot.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/bin/Debug/netcoreapp3.1/car_lot.dll
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/bin/Debug/netcoreapp3.1/car_lot.pdb
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.dll
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.pdb
+/Users/jlcomp45/workspace/csharp/exercises/dictionaries/car_lot/obj/Debug/netcoreapp3.1/car_lot.genruntimeconfig.cache
